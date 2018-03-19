@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24637" started-at="2017-11-17T02:22:49Z" finished-at="2017-11-17T02:23:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24637" started-at="2017-11-17T02:22:49Z" finished-at="2017-11-17T02:23:14Z">
+      <class name="Front.Flogin">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:Front.Flogin@3a82f6ef]" name="doBeforeMethod" is-config="true" duration-ms="6109" started-at="2017-11-17T10:22:49Z" finished-at="2017-11-17T10:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="TestfLogin()[pri:0, instance:Front.Flogin@3a82f6ef]" name="TestfLogin" duration-ms="17744" started-at="2017-11-17T10:22:55Z" finished-at="2017-11-17T10:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestfLogin -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:Front.Flogin@3a82f6ef]" name="doAfterMethod" is-config="true" duration-ms="764" started-at="2017-11-17T10:23:13Z" finished-at="2017-11-17T10:23:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- Front.Flogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
